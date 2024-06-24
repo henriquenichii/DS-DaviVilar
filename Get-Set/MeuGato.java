@@ -14,7 +14,7 @@ System.out.println("Qual o nome do seu gato?");
             Miau.miar();
  
          System.out.println("O meu gato se chama "+ Miau.getNome());
-         System.out.println("A cor do meu gato é " + Miau.getCor());
+         System.out.println("A cor do meu gato e " + Miau.getCor());
  
          
        }
